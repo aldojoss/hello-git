@@ -1,1 +1,1 @@
-print("Hello git 2 mismo cambio en rama_2")
+print("cambio e fichero antes de cambiar de rama ")
