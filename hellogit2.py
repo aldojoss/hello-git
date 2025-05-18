@@ -1,1 +1,1 @@
-print("Hello git 2 cambio hecho en la rama_2")
+print("Hello git 2 mismo cambio en el main")
