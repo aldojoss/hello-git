@@ -6,3 +6,4 @@
 > publishable as-is, as plain text, without
 > looking like it's been marked up with tags
 > or formatting instructions.
+[Curso](https://www.youtube.com/watch?v=3GymExBkKjE&t=12608s)
